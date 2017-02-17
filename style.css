@@ -1,0 +1,34 @@
+html,body{background-image: url('space.jpg'); background-size: cover; background-repeat: no-repeat; font-family: arial;}
+#lightbase{width: 50px; height: 10px; background-color:#000066; margin: 0px auto 0px auto;}
+#light{width: 30px; height: 30px; background-color:#ffffff; border: 3px solid #000066; border-bottom-style: none; margin: 0px auto 0px auto;}
+#lightmid{width: 02px; height: 30px; background-color: #000066; margin: 0px auto 0px auto;}
+#lighttop{width: 40px; height: 05px; background-color: #000066; margin: 0px auto 0px auto;}
+#lighttip{width: 45px; height: 5px; background-color: #000066; margin: 0px auto 0px auto; border-radius: 100px 100px 0px 0px;}
+
+#toproof{width: 335px; height: 20px; background-color:#000099; border: 4px solid #000066;  border-bottom-style: none; margin: 0px auto 0px auto;}
+#topbase{width: 295px; height: 10px; background-color:#000099; border: 4px solid #000066; border-bottom-style: none; margin: 0px auto 0px auto;}
+
+#topsign{width: 365px; height: 40px; background-color:#000099; border: 5px solid #000066; margin: 0px auto 0px auto;}
+#signpolice{width: 270px; height: 30px; background-color:#000000; border: 2px solid #000066; border-bottom-style: none; border-top-style: none;  margin: 0px auto; padding-top: 10px;}
+#signpolice p{color: #ffffff; font-size: 24px; font-weight: normal; margin: auto 20px; float: left;}
+#midsign{color: #ffffff; font-size: 10px; font-weight: bold; margin: auto 05px; width: 40px; text-align: center; float: left;}
+
+#bluebox{background-color: #000099; width: 335px; margin: 0px auto; height: 515px; padding-top: 5px; background-color:#000099; border: 4px solid #000066; border-top-style: none; border-bottom-style: none;}
+#bluedoorleft{width: 143px; margin-top: 10px; margin-left:15px; height: 500px; float:left;  border: 4px solid #000066; border-bottom-style: none;}
+#bluedoorright{width: 143px; margin-top: 10px; margin-right:15px; height: 500px; float:right; border: 4px solid #000066; border-bottom-style: none;}
+
+
+#windowboxl1{background-color: #000066; width: 95px; height: 100px; margin-left: 20px; margin-top: 10px; float: left; border: 5px solid #000080;}
+#windowboxl2{background-color: #ffffff; width: 95px; height: 100px; margin-left: 20px; margin-top: 10px; float: left; border: 5px solid #000080;}
+#p1{font-size: 8px; font-weight: normal; font-family: Times New Roman; margin: 5px 5px; text-align: center;}
+#p2{font-size: 6px; font-weight: normal; font-family: arial; margin: 5px 5px; text-align: center;}
+#p2pto{font-size: 8px; font-weight: normal; font-family: arial; margin: 5px 5px; text-align: center;}
+
+#cleardiv{clear:left;}
+
+#windowboxright1{background-color: #000066; width: 95px; height: 100px; margin-right: 20px; margin-top: 10px; float: right; border: 5px solid #000080;}
+
+#glass{background-color:#ffffff; width: 25px; height: 40px; float: left; margin-top: 07px; margin-left: 05px;}
+#glassr{background-color:#ffffff; width: 25px; height: 40px; float: right; margin-top: 07px; margin-right: 05px;}
+
+#bottomstep{background-color: #000099; width: 365px; height: 20px; margin: 0px auto; border: 5px solid #000066;}
